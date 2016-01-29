@@ -1,7 +1,7 @@
 cf-python-test-app-fastpush
 ===
 
-This sample app illustrates the cf-fastpush CloudFroundry CLI plugin. `fastpush`
+This sample app illustrates the cf-fastpush CloudFroundry CLI plugin. [fastpush](https://github.com/xiwenc/cf-fastpush-plugin)
 enables developers to update their CloudFoundry hosted application at lightning
 speed:
 
@@ -34,4 +34,3 @@ time cf fast-push samplefastpush
 
 # cf fast-push samplefastpush  0.40s user 0.05s system 7% cpu 5.667 total
 ```
-
